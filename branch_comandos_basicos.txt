@@ -1,0 +1,7 @@
+git branch [nome_da_branch] = cria branch
+git branch = mostra as branches
+git checkout [nome_da_branch] = escolhe a branch
+
+
+git branch -d [nome_da_branch] = deleta branch
+git branch -v  = mostra o último commit de cada branch
