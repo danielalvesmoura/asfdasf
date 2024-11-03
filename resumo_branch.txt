@@ -1,0 +1,1 @@
+uma BRANCH é uma ramificação do projeto criada para ser alterada no lugar do projeto principal e que será imposta no projeto principal no fim
